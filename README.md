@@ -1,7 +1,8 @@
 # Hello there! My name is Bijo K Mathew ! 👋
 ### Software Engineer
 
-📚  Currently immersing myself into the wonderful world of Coding  
+📚  Currently immersing myself into the wonderful world of Coding
+📝  I have experience in c, c++, Java, Python, Android, Html, JavaScript, Django, Bootstrap
 👨‍💻  I completed diploma in Full Stack development (E-Commerce) from UCD  
 🏃‍♀️  Ideal start of the day!  
 🎼  Perfect way to clear my head 
